@@ -1,0 +1,136 @@
+{
+  "light-button-primary-default": {
+    "value": "#58d2ff",
+    "type": "color"
+  },
+  "light-button-primary-hover": {
+    "value": "#25c1fa",
+    "type": "color"
+  },
+  "light-button-primary-disabled": {
+    "value": "#a6e7ff",
+    "type": "color"
+  },
+  "dark-button-primary-default": {
+    "value": "#3696ff",
+    "type": "color"
+  },
+  "dark-button-primary-hover": {
+    "value": "#73b6ff",
+    "type": "color"
+  },
+  "dark-button-primary-disabled": {
+    "value": "#0061c8",
+    "type": "color"
+  },
+  "light-primary-default": {
+    "value": "#58d2ff",
+    "type": "color"
+  },
+  "light-primary-hover": {
+    "value": "#25c1fa",
+    "type": "color"
+  },
+  "light-primary-disabled": {
+    "value": "#a6e7ff",
+    "type": "color"
+  },
+  "dark-primary-default": {
+    "value": "#3696ff",
+    "type": "color"
+  },
+  "dark-primary-hover": {
+    "value": "#73b6ff",
+    "type": "color"
+  },
+  "dark-primary-disabled": {
+    "value": "#0061c8",
+    "type": "color"
+  },
+  "size-padding-xs": {
+    "value": "2px",
+    "type": "sizing"
+  },
+  "size-padding-s": {
+    "value": "4px",
+    "type": "sizing"
+  },
+  "size-padding-m": {
+    "value": "8px",
+    "type": "sizing"
+  },
+  "size-padding-l": {
+    "value": "12px",
+    "type": "sizing"
+  },
+  "size-padding-xl": {
+    "value": "20px",
+    "type": "sizing"
+  },
+  "light-color-blue-100": {
+    "value": "#58d2ff",
+    "type": "color"
+  },
+  "light-color-blue-200": {
+    "value": "#25c1fa",
+    "type": "color"
+  },
+  "light-color-blue-80": {
+    "value": "#a6e7ff",
+    "type": "color"
+  },
+  "dark-color-blue-100": {
+    "value": "#3696ff",
+    "type": "color"
+  },
+  "dark-color-blue-80": {
+    "value": "#73b6ff",
+    "type": "color"
+  },
+  "dark-color-blue-200": {
+    "value": "#0061c8",
+    "type": "color"
+  },
+  "radius-xs": {
+    "value": "2px",
+    "type": "borderRadius"
+  },
+  "radius-s": {
+    "value": "4px",
+    "type": "borderRadius"
+  },
+  "radius-m": {
+    "value": "8px",
+    "type": "borderRadius"
+  },
+  "radius-l": {
+    "value": "16px",
+    "type": "borderRadius"
+  },
+  "radius-xl": {
+    "value": "20px",
+    "type": "borderRadius"
+  },
+  "black-100": {
+    "value": "#000",
+    "type": "color"
+  },
+  "white-100": {
+    "value": "#fff",
+    "type": "color"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "alias",
+      "type": "other"
+    },
+    "2": {
+      "value": "component",
+      "type": "other"
+    }
+  }
+}
