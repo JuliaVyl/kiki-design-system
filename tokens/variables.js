@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Fri, 05 Apr 2024 15:04:15 GMT
+ * Generated on Mon, 08 Apr 2024 15:40:55 GMT
  */
 
 module.exports = {
@@ -21,6 +21,23 @@ module.exports = {
       "light-button-primary-default"
     ]
   },
+  "light-button-secondary-default": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "light-button-secondary-default",
+    "attributes": {
+      "category": "light-button-secondary-default"
+    },
+    "path": [
+      "light-button-secondary-default"
+    ]
+  },
   "light-button-primary-hover": {
     "value": "#25c1fa",
     "type": "color",
@@ -36,6 +53,23 @@ module.exports = {
     },
     "path": [
       "light-button-primary-hover"
+    ]
+  },
+  "light-button-secondary-hover": {
+    "value": "#e0e0e0",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#e0e0e0",
+      "type": "color"
+    },
+    "name": "light-button-secondary-hover",
+    "attributes": {
+      "category": "light-button-secondary-hover"
+    },
+    "path": [
+      "light-button-secondary-hover"
     ]
   },
   "light-button-primary-disabled": {
@@ -55,6 +89,23 @@ module.exports = {
       "light-button-primary-disabled"
     ]
   },
+  "light-button-secondary-disabled": {
+    "value": "#ededed",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#ededed",
+      "type": "color"
+    },
+    "name": "light-button-secondary-disabled",
+    "attributes": {
+      "category": "light-button-secondary-disabled"
+    },
+    "path": [
+      "light-button-secondary-disabled"
+    ]
+  },
   "dark-button-primary-default": {
     "value": "#3696ff",
     "type": "color",
@@ -70,6 +121,23 @@ module.exports = {
     },
     "path": [
       "dark-button-primary-default"
+    ]
+  },
+  "dark-button-secondary-default": {
+    "value": "#000",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#000",
+      "type": "color"
+    },
+    "name": "dark-button-secondary-default",
+    "attributes": {
+      "category": "dark-button-secondary-default"
+    },
+    "path": [
+      "dark-button-secondary-default"
     ]
   },
   "dark-button-primary-hover": {
@@ -89,6 +157,23 @@ module.exports = {
       "dark-button-primary-hover"
     ]
   },
+  "dark-button-secondary-hover": {
+    "value": "#929292",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#929292",
+      "type": "color"
+    },
+    "name": "dark-button-secondary-hover",
+    "attributes": {
+      "category": "dark-button-secondary-hover"
+    },
+    "path": [
+      "dark-button-secondary-hover"
+    ]
+  },
   "dark-button-primary-disabled": {
     "value": "#0061c8",
     "type": "color",
@@ -104,6 +189,227 @@ module.exports = {
     },
     "path": [
       "dark-button-primary-disabled"
+    ]
+  },
+  "dark-button-secondary-disabled": {
+    "value": "#505050",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#505050",
+      "type": "color"
+    },
+    "name": "dark-button-secondary-disabled",
+    "attributes": {
+      "category": "dark-button-secondary-disabled"
+    },
+    "path": [
+      "dark-button-secondary-disabled"
+    ]
+  },
+  "light-button-secondary-border-default": {
+    "value": "#000",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#000",
+      "type": "color"
+    },
+    "name": "light-button-secondary-border-default",
+    "attributes": {
+      "category": "light-button-secondary-border-default"
+    },
+    "path": [
+      "light-button-secondary-border-default"
+    ]
+  },
+  "light-button-secondary-border-disabled": {
+    "value": "#e0e0e0",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#e0e0e0",
+      "type": "color"
+    },
+    "name": "light-button-secondary-border-disabled",
+    "attributes": {
+      "category": "light-button-secondary-border-disabled"
+    },
+    "path": [
+      "light-button-secondary-border-disabled"
+    ]
+  },
+  "light-button-secondary-border-hover": {
+    "value": "#929292",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#929292",
+      "type": "color"
+    },
+    "name": "light-button-secondary-border-hover",
+    "attributes": {
+      "category": "light-button-secondary-border-hover"
+    },
+    "path": [
+      "light-button-secondary-border-hover"
+    ]
+  },
+  "dark-button-secondary-border-hover": {
+    "value": "#e0e0e0",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#e0e0e0",
+      "type": "color"
+    },
+    "name": "dark-button-secondary-border-hover",
+    "attributes": {
+      "category": "dark-button-secondary-border-hover"
+    },
+    "path": [
+      "dark-button-secondary-border-hover"
+    ]
+  },
+  "dark-button-secondary-border-disabled": {
+    "value": "#929292",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#929292",
+      "type": "color"
+    },
+    "name": "dark-button-secondary-border-disabled",
+    "attributes": {
+      "category": "dark-button-secondary-border-disabled"
+    },
+    "path": [
+      "dark-button-secondary-border-disabled"
+    ]
+  },
+  "dark-button-secondary-border-default": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "dark-button-secondary-border-default",
+    "attributes": {
+      "category": "dark-button-secondary-border-default"
+    },
+    "path": [
+      "dark-button-secondary-border-default"
+    ]
+  },
+  "light-button-primary-text-default": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "light-button-primary-text-default",
+    "attributes": {
+      "category": "light-button-primary-text-default"
+    },
+    "path": [
+      "light-button-primary-text-default"
+    ]
+  },
+  "light-button-secondary-text-default": {
+    "value": "#000",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#000",
+      "type": "color"
+    },
+    "name": "light-button-secondary-text-default",
+    "attributes": {
+      "category": "light-button-secondary-text-default"
+    },
+    "path": [
+      "light-button-secondary-text-default"
+    ]
+  },
+  "dark-button-primary-text-default": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "dark-button-primary-text-default",
+    "attributes": {
+      "category": "dark-button-primary-text-default"
+    },
+    "path": [
+      "dark-button-primary-text-default"
+    ]
+  },
+  "dark-button-secondary-text-default": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "dark-button-secondary-text-default",
+    "attributes": {
+      "category": "dark-button-secondary-text-default"
+    },
+    "path": [
+      "dark-button-secondary-text-default"
+    ]
+  },
+  "dark-button-secondary-text-disabled": {
+    "value": "#929292",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#929292",
+      "type": "color"
+    },
+    "name": "dark-button-secondary-text-disabled",
+    "attributes": {
+      "category": "dark-button-secondary-text-disabled"
+    },
+    "path": [
+      "dark-button-secondary-text-disabled"
+    ]
+  },
+  "light-button-secondary-text-disabled": {
+    "value": "#929292",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#929292",
+      "type": "color"
+    },
+    "name": "light-button-secondary-text-disabled",
+    "attributes": {
+      "category": "light-button-secondary-text-disabled"
+    },
+    "path": [
+      "light-button-secondary-text-disabled"
     ]
   },
   "light-primary-default": {
@@ -123,6 +429,23 @@ module.exports = {
       "light-primary-default"
     ]
   },
+  "light-secondary-default": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "light-secondary-default",
+    "attributes": {
+      "category": "light-secondary-default"
+    },
+    "path": [
+      "light-secondary-default"
+    ]
+  },
   "light-primary-hover": {
     "value": "#25c1fa",
     "type": "color",
@@ -138,6 +461,23 @@ module.exports = {
     },
     "path": [
       "light-primary-hover"
+    ]
+  },
+  "light-secondary-hover": {
+    "value": "#e0e0e0",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#e0e0e0",
+      "type": "color"
+    },
+    "name": "light-secondary-hover",
+    "attributes": {
+      "category": "light-secondary-hover"
+    },
+    "path": [
+      "light-secondary-hover"
     ]
   },
   "light-primary-disabled": {
@@ -157,6 +497,23 @@ module.exports = {
       "light-primary-disabled"
     ]
   },
+  "light-secondary-disabled": {
+    "value": "#ededed",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#ededed",
+      "type": "color"
+    },
+    "name": "light-secondary-disabled",
+    "attributes": {
+      "category": "light-secondary-disabled"
+    },
+    "path": [
+      "light-secondary-disabled"
+    ]
+  },
   "dark-primary-default": {
     "value": "#3696ff",
     "type": "color",
@@ -172,6 +529,23 @@ module.exports = {
     },
     "path": [
       "dark-primary-default"
+    ]
+  },
+  "dark-secondary-default": {
+    "value": "#000",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#000",
+      "type": "color"
+    },
+    "name": "dark-secondary-default",
+    "attributes": {
+      "category": "dark-secondary-default"
+    },
+    "path": [
+      "dark-secondary-default"
     ]
   },
   "dark-primary-hover": {
@@ -191,6 +565,23 @@ module.exports = {
       "dark-primary-hover"
     ]
   },
+  "dark-secondary-hover": {
+    "value": "#929292",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#929292",
+      "type": "color"
+    },
+    "name": "dark-secondary-hover",
+    "attributes": {
+      "category": "dark-secondary-hover"
+    },
+    "path": [
+      "dark-secondary-hover"
+    ]
+  },
   "dark-primary-disabled": {
     "value": "#0061c8",
     "type": "color",
@@ -206,6 +597,91 @@ module.exports = {
     },
     "path": [
       "dark-primary-disabled"
+    ]
+  },
+  "dark-secondary-disabled": {
+    "value": "#505050",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#505050",
+      "type": "color"
+    },
+    "name": "dark-secondary-disabled",
+    "attributes": {
+      "category": "dark-secondary-disabled"
+    },
+    "path": [
+      "dark-secondary-disabled"
+    ]
+  },
+  "light-primary-text": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "light-primary-text",
+    "attributes": {
+      "category": "light-primary-text"
+    },
+    "path": [
+      "light-primary-text"
+    ]
+  },
+  "light-secondary-text": {
+    "value": "#000",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#000",
+      "type": "color"
+    },
+    "name": "light-secondary-text",
+    "attributes": {
+      "category": "light-secondary-text"
+    },
+    "path": [
+      "light-secondary-text"
+    ]
+  },
+  "dark-primary-text": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "dark-primary-text",
+    "attributes": {
+      "category": "dark-primary-text"
+    },
+    "path": [
+      "dark-primary-text"
+    ]
+  },
+  "dark-secondary-text": {
+    "value": "#fff",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "name": "dark-secondary-text",
+    "attributes": {
+      "category": "dark-secondary-text"
+    },
+    "path": [
+      "dark-secondary-text"
     ]
   },
   "size-padding-xs": {
@@ -512,6 +988,74 @@ module.exports = {
     },
     "path": [
       "white-100"
+    ]
+  },
+  "light-color-grey-60": {
+    "value": "#e0e0e0",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#e0e0e0",
+      "type": "color"
+    },
+    "name": "light-color-grey-60",
+    "attributes": {
+      "category": "light-color-grey-60"
+    },
+    "path": [
+      "light-color-grey-60"
+    ]
+  },
+  "dark-color-grey-80": {
+    "value": "#929292",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#929292",
+      "type": "color"
+    },
+    "name": "dark-color-grey-80",
+    "attributes": {
+      "category": "dark-color-grey-80"
+    },
+    "path": [
+      "dark-color-grey-80"
+    ]
+  },
+  "dark-color-grey-100": {
+    "value": "#505050",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#505050",
+      "type": "color"
+    },
+    "name": "dark-color-grey-100",
+    "attributes": {
+      "category": "dark-color-grey-100"
+    },
+    "path": [
+      "dark-color-grey-100"
+    ]
+  },
+  "light-color-grey-40": {
+    "value": "#ededed",
+    "type": "color",
+    "filePath": "tokens/output.json",
+    "isSource": true,
+    "original": {
+      "value": "#ededed",
+      "type": "color"
+    },
+    "name": "light-color-grey-40",
+    "attributes": {
+      "category": "light-color-grey-40"
+    },
+    "path": [
+      "light-color-grey-40"
     ]
   },
   "tokenSetOrder": {
