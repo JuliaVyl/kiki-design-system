@@ -7,9 +7,15 @@ export const Button: React.FC<PropsWithChildren<IButton>> = ({
   onClick,
   variant = 'primary',
   size = 's',
+  disabled = false,
+  className,
 }) => {
   return (
-    <button className={buttonStyle({ variant, size })} onClick={onClick}>
+    <button
+      className={buttonStyle({ variant, size, disabled, className })}
+      onClick={onClick}
+      disabled={disabled}
+    >
       {children}
     </button>
   );
